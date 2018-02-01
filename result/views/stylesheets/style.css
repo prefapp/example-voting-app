@@ -81,7 +81,7 @@ body{
   top: 50%;
   transform: translateY(-50%);
   text-align: left;
-  padding-left: 50px;
+  padding-left: 40px;
 }
 
 #choice .choice .label{
